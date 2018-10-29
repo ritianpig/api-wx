@@ -1,0 +1,1649 @@
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+nginx: [warn] server name "http://51babyapp.com" has suspicious symbols in /etc/nginx/nginx.conf:40
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because the control process exited with error code. See "systemctl status nginx.service" and "journalctl -xe" for details.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Job for nginx.service failed because start of the service was attempted too often. See "systemctl status nginx.service" and "journalctl -xe" for details.
+To force a start use "systemctl reset-failed nginx.service" followed by "systemctl start nginx.service" again.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
+Failed to start nginx.service: Transaction is destructive.
+See system logs and 'systemctl status nginx.service' for details.
